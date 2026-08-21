@@ -20,8 +20,8 @@ Résultats :
 
 <table>
   <tr>
-    <td align="center"><img src="img/projection_pays_transparente.png" width="300" alt="Projection Pays"><br><b>Projection Pays</b></td>
     <td align="center"><img src="img/cercle_correlation_transparent.png" width="300" alt="Cercle corrélation"><br><b>Cercle corrélation</b></td>
+    <td align="center"><img src="img/dendrogram_transparente.png" width="300" alt="Dendrogram"><br><b>Projection Pays</b></td>
     <td align="center"><img src="img/matrice_centroides.png" width="300" alt="Matrice Centroides"><br><b>Matrice Centroides</b></td>
   </tr>
 </table>
@@ -29,5 +29,5 @@ Résultats :
 
 ## Licence & Authorship
 
-Projet réalisé dans le cadre de la certification **Data Analyst / Analytics Engineer — OpenClassrooms P11**
+Projet réalisé dans le cadre de la certification **Data Analyst / Analytics Engineer - OpenClassrooms P11**
 Juillet 2026 · Sébastien Guitton
