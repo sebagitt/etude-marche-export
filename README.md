@@ -20,9 +20,9 @@ Résultats :
 
 <table>
   <tr>
-    <td align="center"><img src="img/cercle_correlation_transparent.png" width="300" alt="Cercle corrélation"><br><b>Cercle corrélation</b></td>
-    <td align="center"><img src="img/dendrogram_transparente.png" width="300" alt="Dendrogram"><br><b>Projection Pays</b></td>
-    <td align="center"><img src="img/matrice_centroides.png" width="300" alt="Matrice Centroides"><br><b>Matrice Centroides</b></td>
+    <td align="center"><img src="img/Cercle_Correlation02.png" width="300" alt="Cercle corrélation"><br><b>Cercle corrélation</b></td>
+    <td align="center"><img src="img/distribution_cluster_pib_hab.png" width="300" alt="Distribution Cluster PIB/hab"><br><b>Distribution Cluster PIB/hab</b></td>
+    <td align="center"><img src="img/projection_2clusters.png" width="300" alt="Projection de 2 clusters"><br><b>Projection de 2 clusters</b></td>
   </tr>
 </table>
 
