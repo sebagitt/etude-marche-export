@@ -5,12 +5,18 @@ Machine learning non supervisé pour identifier les marchés d'exportation optim
 **Stack :**  | `Python 3.x`, `Scikit-Learn`, `Pandas`, `uv`|
 
 ## Vue d'ensemble
-Analyse segmentant plus de 150 pays selon des critères macro-économiques et démographiques afin d'identifier les marchés à fort potentiel pour un lancement de nouveaux marchés.
+Analyse segmentant 160 pays selon 9 critères macro-économiques, d'importation et de stabilité géopolitique, afin d'identifier les marchés à fort potentiel pour un lancement de nouveaux marchés.
 
-Résultats :
-- 237 pays réduits à 6 clusters de marché (PCA capturant 87% de la variance).
-- Profilage quantifié des clusters (PIB par habitant, densité, maturité réglementaire).
-- 5 marchés d'entrée recommandés offrant un équilibre risque/récompense optimal avec une priorité sur 2 pays.
+
+## Résultats :
+- Synthèse de l'information mondiale via une ACP (5 composantes capturant >80% de la variance).
+
+- Classification de 160 pays en 10 clusters de marché via CAH et K-Means.
+
+- Identification des clusters par pouvoir d'achat (PIB/hab), volume d'importation, dépendance extérieure et score environnemental (EPI).
+
+- 5 marchés d'entrée recommandés offrant un équilibre risque logistique / opportunité commercial optimal avec une priorité sur 2 pays (Allemagne et Belgique).
+
 
 ## Livrables
 - `01_preparation_donnees.ipynb` : Préparation et agrégation des données
