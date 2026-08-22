@@ -2,7 +2,7 @@
 
 Machine learning non supervisé pour identifier les marchés d'exportation optimaux d'une marque agroalimentaire. Utilisation de la PCA pour la réduction de dimensionnalité et de K-Means pour la segmentation.
 
-**Stack :**  | `Python 3.x`, `Scikit-Learn`, `Pandas`, `uv`|
+**Stack :**  | `Python 3.x` | `Scikit-Learn` | `Pandas` | `uv`
 
 ## Vue d'ensemble
 Analyse segmentant 160 pays selon 9 critères macro-économiques, d'importation et de stabilité géopolitique, afin d'identifier les marchés à fort potentiel pour un lancement de nouveaux marchés.
